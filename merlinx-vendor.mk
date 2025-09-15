@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/libccu_ov13b10_mipi_raw.dm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_ov13b10_mipi_raw.dm \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/libccu_ov13b10_mipi_raw.pm:$(TARGET_COPY_OUT_VENDOR)/bin/libccu_ov13b10_mipi_raw.pm \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/meta_tst:$(TARGET_COPY_OUT_VENDOR)/bin/meta_tst \
+    vendor/xiaomi/merlinx/proprietary/vendor/bin/mnld.1:$(TARGET_COPY_OUT_VENDOR)/bin/mnld \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/nusensors:$(TARGET_COPY_OUT_VENDOR)/bin/nusensors \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/nvram_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/nvram_daemon \
     vendor/xiaomi/merlinx/proprietary/vendor/bin/starter:$(TARGET_COPY_OUT_VENDOR)/bin/starter \
